@@ -1,0 +1,16 @@
+﻿  first.cpp
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(99,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(100,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(103,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(104,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,36): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,36): warning C4244:         with
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,36): warning C4244:         [
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,36): warning C4244:             _Tp=int
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,36): warning C4244:         ]
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,26): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,26): warning C4244:         with
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,26): warning C4244:         [
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,26): warning C4244:             _Tp=int
+C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\Ornek_OpenCv\first.cpp(114,26): warning C4244:         ]
+  Ornek_OpenCv.vcxproj -> C:\Users\pc\Desktop\c++ OpenCv\Ornek_OpenCv\x64\Debug\Ornek_OpenCv.exe
