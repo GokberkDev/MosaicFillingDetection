@@ -1,0 +1,12 @@
+# Visual Studio ve C++ build/cache klasörleri
+.vs/
+build/
+x64/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Cache dosyaları
+*.ipch
+*.pch
+*.sdf
