@@ -1,4 +1,4 @@
-# Visual Studio ve C++ build/cache klasörleri
+# Visual Studio ve C++ cache klasörleri
 .vs/
 build/
 x64/
@@ -9,4 +9,4 @@ x64/
 # Cache dosyaları
 *.ipch
 *.pch
-*.sdf
+*.sdfbuild/
